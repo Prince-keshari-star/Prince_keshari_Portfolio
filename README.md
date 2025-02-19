@@ -1,6 +1,6 @@
-# Portfolio of Soumyajit Basak
+# Portfolio of Prince Keshari
 
-<img src ="https://github.com/soumyajiitt/Portfolio/blob/master/src/assets/Work4.png" />
+<img src ="C:\Users\princ\Desktop\Resume\Portfolio-master\Portfolio-master\src\assets\Work4.png" />
 
 This project was created with Vite ( React + JavaScript )
 
