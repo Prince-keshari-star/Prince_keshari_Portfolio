@@ -1,6 +1,6 @@
 # Portfolio of Prince Keshari
 
-C:\Users\princ\Desktop\Resume\Portfolio-master\Portfolio-master\src\assets\Work4.png
+<img src="C:\Users\princ\Desktop\Resume\Portfolio-master\Portfolio-master\src\assets\Work4.png" />
 
 This project was created with Vite ( React + JavaScript )
 
